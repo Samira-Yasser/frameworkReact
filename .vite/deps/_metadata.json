@@ -1,0 +1,46 @@
+{
+  "hash": "2c0a51e9",
+  "configHash": "17e9d46c",
+  "lockfileHash": "8c7d459b",
+  "browserHash": "46c0db80",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "2d8c0f25",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "14ed0cb8",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "db86afcb",
+      "needsInterop": false
+    },
+    "set-cookie-parser": {
+      "src": "../../node_modules/set-cookie-parser/lib/set-cookie.js",
+      "file": "set-cookie-parser.js",
+      "fileHash": "e5a76704",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-XQIPT53K": {
+      "file": "chunk-XQIPT53K.js"
+    },
+    "chunk-KS2M7ZJI": {
+      "file": "chunk-KS2M7ZJI.js"
+    },
+    "chunk-R6T5443G": {
+      "file": "chunk-R6T5443G.js"
+    },
+    "chunk-5WRI5ZAA": {
+      "file": "chunk-5WRI5ZAA.js"
+    }
+  }
+}
